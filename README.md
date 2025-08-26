@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Giovanni Ciarlo
+- 👋 Hi, I’m Gigio
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Julia<3 and Python
-- 💞️ I’m looking to collaborate on some plug-in and web interface
-- 📫 How to reach me <ciarlogio7@gmail.com>
+- 💞️ I’m looking to collaborate on some project to learn something new
+- 📫 How to reach me <s287470@studenti.polito.it>
 - 😄 Pronouns: .jl/.py 
 - ⚡ Fun fact: lurking for some project ✨
 - 🧡 I'm loving climb, ski and swim 😍
